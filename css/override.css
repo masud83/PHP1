@@ -1,0 +1,48 @@
+  .navbar-transparent .navbar-transparent-inner{
+  	position:relative;
+    top:0px;
+  }  
+  .navbar-transparent .navbar-transparent-inner{
+  	position:relative;
+    top:-18px;
+  }
+.contact-click-width{
+    -webkit-transition: width 2s; 
+    transition: all 1s;
+}
+
+	.errors ul{
+  		color:red;
+    	width:100%;
+    	float:left;
+    	text-align:center;
+	}
+  
+	.on_focus{
+		transition: width .5s ease-in-out;
+	}
+  
+	.focused_label{
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;  
+	}
+  
+	.instruction_body{
+	  transition: all .5s ease;
+	  -webkit-transition: all .5s ease;
+	  -moz-transition: all .5s ease;
+	  -o-transition: all .5s ease;
+	  -ms-transition: all .5s ease;
+	}  
+	
+	div.datepicker{
+		cursor:pointer;
+	}
+	
+	
+.form-control{
+	color:#003668;
+}	
+	
